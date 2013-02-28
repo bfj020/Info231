@@ -20,9 +20,6 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 
-
-
-
 // To be revised
 /**
  * Ein klasse som oppretter eit grafisk brukergrensesnitt som brukes for å lagre kontakter.

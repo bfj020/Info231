@@ -67,7 +67,7 @@ public class Action implements ActionListener {
 			String lineSeperator = System.getProperty("line.seperator");
 			while(sc.hasNext()){
 				fileToView.append(sc.nextLine()+ lineSeperator);
-				return file.toString();
+				return fileToView.toString();
 			}
 			sc.close();
 		}
